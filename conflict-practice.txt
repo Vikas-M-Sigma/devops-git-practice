@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This repository is for practicing Git branches.
+=======
+This repository is for practicing GitHub pull requests.
+>>>>>>> conflict-b
